@@ -45,6 +45,14 @@ const defaults = [
     },
   },
   {
+    type: "contact",
+    content: {
+      heading: "Schreiben Sie mir eine Nachricht",
+      recipient: "alexbueckner@gmail.com",
+      image: "solar_energy_a2mPxBJIkJ.jpg",
+    },
+  },
+  {
     type: "default",
     content: {},
   },
