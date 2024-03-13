@@ -13,7 +13,7 @@
   });
 
   const menuEntries = computed(() => {
-    let entries = records.filter(record => record.inMenu === true)
+    let entries = records.filter(record => record.inMenu === true).sort((a,b) => a.sortOrder - b.sortOrder)
     let i = 0
     for(const entry of entries){
       entry.delay = i * 100
