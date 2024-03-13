@@ -53,6 +53,16 @@ const defaults = [
     },
   },
   {
+    type: "map",
+    content: {
+      address: "Dimple Goertz<br/>Paar- und Sexualtherapeutin & Beziehungscoach<br/>Breitscheidstraße 33<br/>70176 Stuttgart",
+      phone: "+49 1573 1664595",
+      openinghours: "(Erreichbar Mo-Do, 10-19h)",
+      mail: "kontakt@dimplegoertz.de",
+      image: "",
+    },
+  },
+  {
     type: "default",
     content: {},
   },
