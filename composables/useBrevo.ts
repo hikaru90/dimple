@@ -53,7 +53,7 @@ const getTemplate = (templateName: string, formData: object) => {
 
       ${
         formData?.place === "inPerson"
-          ? "Ich freue mich, Sie bald persönlich in meiner Praxis in Stuttgart zu empfangen.<br /><br />"
+          ? "Ich freue mich, Sie bald persönlich in Stuttgart zu empfangen.<br /><br />"
           : "Ich sende Ihnen den entsprechenden Link für die Durchführung Ihres Onlinetermins im Vorfeld zu.<br /><br />"
       }
       

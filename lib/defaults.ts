@@ -69,7 +69,7 @@ const defaults = [
   {
     type: "heroBig",
     content: {
-      heading: "Privatpraxis für Systemische Paar- und Sexualtherapie & Beziehungscoaching",
+      heading: "Systemische Paar- und Sexualtherapie & Beziehungscoaching",
       image: "solar_energy_a2mPxBJIkJ.jpg",
       cta: {
         text: "Jetzt Termin buchen",

@@ -27,7 +27,7 @@
       <div class="flex flex-col md:flex-row justify-between gap-10">
         <div class="w-full md:w-1/5">
           <h2 class="font-bold opacity-60 mb-2 md:mb-6">
-            Privatpraxis<br />
+            Anschrift<br />
           </h2>
           <p style="line-height:37px;" class="">
             Dimple Goertz<br />

@@ -250,7 +250,7 @@
       <FormInputSelect
         v-model="state.form.place.value"
         :options="[
-          { label: 'In meiner Praxis', value: 'inPerson' },
+          { label: 'In meinen Räumlichkeiten', value: 'inPerson' },
           { label: 'Online', value: 'online' },
         ]"
         label="Wo soll der Termin stattfinden?"
